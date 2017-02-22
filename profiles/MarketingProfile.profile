@@ -818,6 +818,16 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
+        <editable>false</editable>
+        <field>Eclipse2__c.Test1__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Eclipse2__c.Testpicklist__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
         <editable>true</editable>
         <field>Eclipse__c.Test__c</field>
         <readable>true</readable>
@@ -1439,6 +1449,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>Western__c-Western Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Eclipse2__c-Eclipse2 Layout</layout>
     </layoutAssignments>
     <objectPermissions>
         <allowCreate>true</allowCreate>
